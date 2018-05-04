@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizzler From Scratch</string>
+    <string name="question1">Question1</string>
+
+    <string name="truetext">True</string>
+    <string name="falsetext">False</string>
+</resources>
